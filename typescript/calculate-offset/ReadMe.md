@@ -1,0 +1,1 @@
+A simple script to calculate the position ob an element on your screen while taking care of scrolled parents.
