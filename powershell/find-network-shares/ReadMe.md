@@ -1,0 +1,1 @@
+Finds network shares on a specified machine by user name.
